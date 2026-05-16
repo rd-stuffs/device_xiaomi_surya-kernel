@@ -1,0 +1,5 @@
+kernel_headers {
+	name: "qti_kernel_headers",
+	recovery_available: true,
+	vendor_available: true
+}
